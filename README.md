@@ -20,8 +20,8 @@
 1. **Depoyu klonlayın:**
 
     ```bash
-    git clone https://github.com/username/extractor.git
-    cd extractor
+    git clone https://github.com/username/extraxtor.git
+    cd extraxtor
     ```
 
 2. **Gerekli paketleri yükleyin:**
@@ -33,7 +33,7 @@
 3. **Proje dosyalarını çalıştırın:**
 
     ```bash
-    python extractor.py
+    python extraxtor.py
     ```
 
 ## Kullanım
@@ -45,7 +45,7 @@
 
 ## Proje Yapısı
 
-- **`extractor.py`**: Ana uygulama dosyasıdır. Hem GUI hem de Flask uygulamasını içerir.
+- **`extraxtor.py`**: Ana uygulama dosyasıdır. Hem GUI hem de Flask uygulamasını içerir.
 - **`templates/index.html`**: Tarama sonuçlarının gösterildiği HTML sayfasıdır.
 - **`results.json`**: Tarama sonuçlarının kaydedildiği JSON dosyasıdır.
 
