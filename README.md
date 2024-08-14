@@ -33,7 +33,7 @@
 3. **Proje dosyalarını çalıştırın:**
 
     ```bash
-    python extraxtor.py
+    python app.pyw
     ```
 
 ## Kullanım
@@ -45,7 +45,7 @@
 
 ## Proje Yapısı
 
-- **`extraxtor.py`**: Ana uygulama dosyasıdır. Hem GUI hem de Flask uygulamasını içerir.
+- **`app.pyw`**: Ana uygulama dosyasıdır. Hem GUI hem de Flask uygulamasını içerir.
 - **`templates/index.html`**: Tarama sonuçlarının gösterildiği HTML sayfasıdır.
 - **`results.json`**: Tarama sonuçlarının kaydedildiği JSON dosyasıdır.
 
