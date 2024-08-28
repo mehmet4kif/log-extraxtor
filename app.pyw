@@ -13,7 +13,6 @@ total_files = 0
 total_usernames = 0
 total_passwords = 0
 total_urls = 0
-secret = "gizli"
 
 def scan_directory_for_txt_files(dir_path, progress_callback):
     global scanned_results, total_files, total_usernames, total_passwords, total_urls
